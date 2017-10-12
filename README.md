@@ -8,9 +8,9 @@ The basic program in any language.
 
 To run a java program, type following commands in terminal : 
 
-javac hello.java          //compile
+javac hello.java          
 
-java hello                //run
+java hello               
 
 # output
 
